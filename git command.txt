@@ -1,0 +1,15 @@
+
+ Root Folder 연결
+ - git init
+ - git remote add origin (github사이트 https ~~~)
+
+ Push 전엔 Pull이 있다.
+
+ Pull
+ - git pull origin master (지정 해놓은 Repository에서 해당 폴더로 자료를 모두 끌어온다.)
+
+ Push
+ - git status (현재 git과의 상태를 체크한다)
+ - git add . (변경된 파일들을 모두 tracking
+ - git commit -m 
+ - git push origin +master
